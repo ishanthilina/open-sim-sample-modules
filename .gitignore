@@ -1,0 +1,15 @@
+*/*/obj
+*/*/*/obj
+*/*/*/*/obj
+*/*/*/*/*/obj
+*/*/*/*/*/*/obj
+*/*/*/*/*/*/*/obj
+
+*.suo
+*.user
+
+*.csproj
+
+*.dll.build
+
+README
