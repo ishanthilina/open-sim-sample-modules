@@ -9,11 +9,11 @@ About Modules
 --------------
 ####NonSharedRegionModuleTemplate
 
-A template module that can be used to customize. When built and deployed, it will output log messages to the opensim console output.
+A template module that can be used to customize. When built and deployed, it will output log messages to the opensim console output. (Tested under opensim 0.8)
 
 
 ####HelloWorldPrimsModule
 
-Shows a 3D **Hello** message in the region. Original source code was obtained from [Getting Started with Region Modules][1] tutorial of the Opensim wiki and modified.
+Shows a 3D **Hello** message in the region. Original source code was obtained from [Getting Started with Region Modules][1] tutorial of the Opensim wiki and modified. (Tested under opensim 0.8)
 
   [1]: http://opensimulator.org/wiki/Getting_Started_with_Region_Modules
