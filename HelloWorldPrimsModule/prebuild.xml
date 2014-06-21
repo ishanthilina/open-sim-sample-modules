@@ -1,4 +1,4 @@
-<Project frameworkVersion="v3_5" name="BareBonesNonSharedModule" path="addon-modules/BareBonesNonSharedModule/src/BareBonesNonSharedModule" type="Library">
+<Project frameworkVersion="v3_5" name="HelloWorldPrimsModule" path="addon-modules/HelloWorldPrimsModule/src/HelloWorldPrimsModule" type="Library">
   <Configuration name="Debug">
     <Options>
       <OutputPath>../../../../bin</OutputPath>
